@@ -1,0 +1,30 @@
+# phpstorrm #
+######################
+.idea
+
+# es6 nodejs #
+######################
+node_modules
+dist
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Trashes
+ehthumbs.db
+Thumbs.db
+.Spotlight-V100
+
+# other #
+######################
+!.gitkeep
+*.log
+
+#docker
+database
+lab_project
+logs
+ssh
+.env
